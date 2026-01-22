@@ -1,0 +1,5 @@
+{
+  "name": "SeismoSim: Professional Digital Seismograph Simulator",
+  "description": "An interactive, scientifically-grounded seismograph simulation exploring P, S, and Surface waves with real-time three-axis visualization and educational insights.",
+  "requestFramePermissions": []
+}
